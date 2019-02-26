@@ -1,5 +1,3 @@
-/// <reference path="./Intellisense/cfx.visualStudio.js" />
-
 function doInitializeDash()
 {
     var title;
